@@ -8553,7 +8553,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 .contact-card .info-card:not(:first-child) {
   border-left: 1px solid #2F2F2F;
-  padding: 40px;
+  padding: 0px;
 }
 .contact-card .info-card_icon {
   background: #1B1B1B;
