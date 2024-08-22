@@ -8547,9 +8547,8 @@ span.select2-selection.select2-selection--single:focus {
   border-bottom: 1px solid #2F2F2F;
 }
 .contact-card .info-card {
-  padding: 60px 0;
+  padding: 20px 0;
   display: flex;
-  gap: 20px;
   align-items: center;
 }
 .contact-card .info-card:not(:first-child) {
